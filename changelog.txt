@@ -1,0 +1,7 @@
+0.78 code cleaning
+
+0.77 fixed accidentally removed in 0.75 flexslider file. jquery.flexslider-min.js <facepalm>
+
+0.75 fixed resposive on mobile devices, fixed non-centering first image after page load
+
+0.7 initial
